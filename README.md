@@ -1,5 +1,18 @@
 Hello World!
 
+PowerShell commands:
+
+New-Item <name.ext>		//Creates a new file
+Invoke-Item <name.ext>		//Opens file with standard app
+mkdir <name>			//Makes a new folder
+cd <name>			//Moves to folder
+cd ..				//Moves up
+git add -A			//Adds all files and folders to git staging
+git commit -a -m "<message>"	//Makes a commit with a message
+git push			//Pushes to GitHub
+csc <name.cs>			//Compiles C# file
+<name.exe>			//Runs file
+
 # Min Øvelser
  
 Nyttige links:
