@@ -17,4 +17,7 @@
 	I commit er author og timestamp, samt commit hash.
 
 4.7 Ændringer
-	
+	Ændringerne er gået igennem.
+
+4.8 Konflikter + 4.9 Struktur
+	**not applicable**
