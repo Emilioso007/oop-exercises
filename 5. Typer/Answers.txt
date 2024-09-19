@@ -1,0 +1,7 @@
+5.2 Temperaturer
+	Hvilke typer er velegnede til at repræsentere en temperatur?
+		float, double og decimal afhængig af måleapparatet.
+
+5.3 Måned
+	Hvilke typer er velegnede til at repræsentere en måned?
+		byte er rigeligt, men int er mest brugt.
