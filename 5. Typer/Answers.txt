@@ -5,3 +5,12 @@
 5.3 Måned
 	Hvilke typer er velegnede til at repræsentere en måned?
 		byte er rigeligt, men int er mest brugt.
+
+5.4 Heltallige grænser
+	Når man gør en int større end den "kan" wrapper den rundt og bliver negativ.
+
+5.5 Casting
+	Hvorved adskiller int og long sig?
+		int er 32 bit, long er 64 bit.
+
+	Der skal castes explicit når man mister data.
