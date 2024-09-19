@@ -1,0 +1,11 @@
+6.1 Definition
+	Hvad er et expression?
+		Et expression er en del kode som evaluere til en værdi.
+
+6.2 Tildeling
+	Er en tildeling (af en værdi til en variabel) et expression? Hvordan tester i en hypotese om dette?
+		En tildeling er et statement, som består af et expression.
+
+6.3 Expression vs Statement
+	Hvad er forskellen på et expression og et statement?
+		Et expression evaluere til en værdi, mens et statement er en linje kode.
