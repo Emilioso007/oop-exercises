@@ -1,0 +1,20 @@
+4.1 Konto
+	Github konto er oprettet, SSH nøgle er oprettet og registreret
+
+4.2 Installation af GIT
+	Git er installeret.
+
+4.3 Opsætning
+	Git er opsat med user.name og user.email
+
+4.4 Repositorie
+	Repo er oprettet.
+
+4.5 Markdown
+	README.md er tilføjet.
+
+4.6 Commit Log
+	I commit er author og timestamp, samt commit hash.
+
+4.7 Ændringer
+	

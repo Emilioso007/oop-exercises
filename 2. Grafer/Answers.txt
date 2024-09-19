@@ -1,0 +1,28 @@
+2.1 Termer
+
+	1. Hvad er det for en type graf?
+		Directed cyclic graph
+
+	2. Hvor mange knuder er der?
+		9
+
+	3. Hvor mange kanter er der?
+		11
+
+	3. Er der en kreds i grafen, og hvor lang er den i så fald?
+		Ja, 4
+
+	4. Hvor langt er der fra n_8 til n_4?
+		De retningsbestemte pile i grafen tillader ikke at gå fra n_8 til n_4.
+
+
+2.2 Træstrukturer
+
+	Hvilken af følgende grafer er træstrukturer?
+		d
+
+2.3 Stamtræ
+
+	Tegn et stamtræ over din nærmeste familie, eller en fiktiv familie fra en film eller serie.
+	Hvilke graf-relaterede udtryk kan vi bruge til at beskrive denne graf?
+		Man kan sige at personerne er knuder, mens relationerne er kanter.

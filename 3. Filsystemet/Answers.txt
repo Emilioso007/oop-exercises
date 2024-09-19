@@ -1,0 +1,16 @@
+3.1 Text Editor
+	Notepad++ og SublimeText er installeret.
+
+3.2 Oprettelse
+	Ved oprettelse af tom fil, er størrelsen 0.
+	Ved indsættelse af "Hello, World" bliver filen 12 bytes stor.
+	Forskellen opstår ved at der nu er data i filen.
+
+3.3 Directory
+	mkdir oop
+	move Fil.txt oop
+	cd oop
+	ls -> Fil.txt er nu flyttet
+
+3.4 Framework
+	.NET 8.0 er installeret
