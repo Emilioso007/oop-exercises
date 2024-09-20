@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\bin\Debug\net8.0\9.4 Længden af en Måned.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\bin\Debug\net8.0\9.4 Længden af en Måned.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\bin\Debug\net8.0\9.4 Længden af en Måned.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\bin\Debug\net8.0\9.4 Længden af en Måned.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\bin\Debug\net8.0\9.4 Længden af en Måned.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\refint\9.4 Længden af en Måned.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\ref\9.4 Længden af en Måned.dll
