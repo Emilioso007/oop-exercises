@@ -1,0 +1,11 @@
+14.1 Anvendelse
+	Hvad bruges en metode til?
+		Mange ting.
+
+14.2 Mangel på Returværdi
+	Hvordan erklærer man at en metode ikke returnerer en værdi?
+		void
+
+14.6 Matematisk Ækvivalent
+	 Hvilken matematiske konstruktion kan repræsenteres rigtigt godt med en metode, og hvorved adskilder de to sig fra hinanden?
+		Matematiske funktioner kan nemt repræsenteres med metoder.
