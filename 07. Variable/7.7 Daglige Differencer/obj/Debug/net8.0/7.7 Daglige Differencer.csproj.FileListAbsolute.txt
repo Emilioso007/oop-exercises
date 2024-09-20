@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\bin\Debug\net8.0\7.7 Daglige Differencer.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\bin\Debug\net8.0\7.7 Daglige Differencer.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\bin\Debug\net8.0\7.7 Daglige Differencer.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\bin\Debug\net8.0\7.7 Daglige Differencer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\bin\Debug\net8.0\7.7 Daglige Differencer.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\refint\7.7 Daglige Differencer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\ref\7.7 Daglige Differencer.dll

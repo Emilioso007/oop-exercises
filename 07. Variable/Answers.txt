@@ -1,0 +1,13 @@
+7.6 Værdi vs Variabel
+	Hvad er forholdet mellem en værdi og en variabel?
+		En variabel indeholder en værdi.
+
+7.8 Gennemsnitlig alder
+	Opret først variabler for <indsæt navne> med tilhørende aldre.
+	Beregn gennemsnittetene blandt hhv. mænd og kvinder seperat.
+	Beregn det globale gennemsnit.
+	Beregn forskellen mellem det mandlige og det kvindlige gennemsnit.
+	Skriv alle beregnede værdier ud på en flot måde i konsollen.
+
+7.9 Printf
+	Er undersøgt.
