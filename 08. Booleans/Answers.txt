@@ -1,0 +1,16 @@
+8.1 Definition
+	Hvad er en boolean?
+		En boolean er en datatype som kun kan repræsentere to værdier, true eller false.
+
+8.2 Oprettelse
+	Hvilke operatorer kan man bruge til at få et expression til at evaluere til en boolsk værdi?
+		== != < <= > >=
+
+8.3 Købsbeslutning
+	Først tjekkes der om price er mindre end budget. Hvis ej, bliver shouldBuy sat til false. Ellers evalueres hvorvidt requiredReading er true. I så fald bliver shouldBuy true, ellers false.
+
+	< (mindre end) operatoren bliver brugt mellem price og budget.
+
+	værdierne, price og budget, har begge typen double.
+
+	shouldBuy repræsenterer om man har råd, samt om (ex. bogen) skal læses.
