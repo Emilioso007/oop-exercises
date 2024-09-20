@@ -1,0 +1,21 @@
+11.1 Definition
+	Hvad er et array?
+		Et array er en samling af værdier af samme type.
+
+11.2 Anvendelse
+	Hvornår giver det mening at bruge arrays?
+		Når man har en samling af værdier af samme type.
+
+11.3 Type af Indhold vs Type af Array
+	 Hvad er sammenhængen mellem typen af et array og de data som det kan indeholde?
+	 	Typen af arrayet specificerer hvilken type det kan indeholde.
+
+11.5 Erklæring af Størrelse
+	Hvilken syntaks bruges ved oprettelse af et array til at erklære hvor mange (data) elementer der skal være plads til?
+		<type> <navn> = new <type>[<størrelse>];
+
+11.7 Sudoku Plade
+	Hvordan ville du repræsentere en sudoku plade i C#?
+		Multidimensionelt array, da alle rækker har lige mange værdier.
+	Hvordan hænger denne datastruktur sammen i hukommelsen?
+		De ligger samlet efter hinanden, hvilket gør opslag hurtige og nemme.

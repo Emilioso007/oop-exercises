@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\bin\Debug\net8.0\10.1 Celcius til Fahrenheit.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\bin\Debug\net8.0\10.1 Celcius til Fahrenheit.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\bin\Debug\net8.0\10.1 Celcius til Fahrenheit.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\bin\Debug\net8.0\10.1 Celcius til Fahrenheit.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\bin\Debug\net8.0\10.1 Celcius til Fahrenheit.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\refint\10.1 Celcius til Fahrenheit.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\ref\10.1 Celcius til Fahrenheit.dll

@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\bin\Debug\net8.0\11.4 Størst i Array.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\bin\Debug\net8.0\11.4 Størst i Array.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\bin\Debug\net8.0\11.4 Størst i Array.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\bin\Debug\net8.0\11.4 Størst i Array.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\bin\Debug\net8.0\11.4 Størst i Array.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\refint\11.4 Størst i Array.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\ref\11.4 Størst i Array.dll

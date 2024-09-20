@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\bin\Debug\net8.0\11.9 Daglige Differencer.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\bin\Debug\net8.0\11.9 Daglige Differencer.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\bin\Debug\net8.0\11.9 Daglige Differencer.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\bin\Debug\net8.0\11.9 Daglige Differencer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\bin\Debug\net8.0\11.9 Daglige Differencer.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\refint\11.9 Daglige Differencer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\ref\11.9 Daglige Differencer.dll

@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\bin\Debug\net8.0\DoWhile loop.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\bin\Debug\net8.0\DoWhile loop.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\bin\Debug\net8.0\DoWhile loop.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\bin\Debug\net8.0\DoWhile loop.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\bin\Debug\net8.0\DoWhile loop.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\refint\DoWhile loop.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\ref\DoWhile loop.dll

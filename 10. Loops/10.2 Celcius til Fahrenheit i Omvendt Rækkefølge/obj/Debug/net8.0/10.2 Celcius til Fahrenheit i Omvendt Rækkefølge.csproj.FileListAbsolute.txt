@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\bin\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\bin\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\bin\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\bin\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\bin\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\refint\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\ref\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.dll

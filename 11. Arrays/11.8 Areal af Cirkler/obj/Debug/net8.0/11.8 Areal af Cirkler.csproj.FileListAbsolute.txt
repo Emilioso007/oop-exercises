@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\bin\Debug\net8.0\11.8 Areal af Cirkler.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\bin\Debug\net8.0\11.8 Areal af Cirkler.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\bin\Debug\net8.0\11.8 Areal af Cirkler.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\bin\Debug\net8.0\11.8 Areal af Cirkler.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\bin\Debug\net8.0\11.8 Areal af Cirkler.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\refint\11.8 Areal af Cirkler.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\ref\11.8 Areal af Cirkler.dll
