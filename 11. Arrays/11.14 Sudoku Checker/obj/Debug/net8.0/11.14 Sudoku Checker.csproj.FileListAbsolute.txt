@@ -1,0 +1,15 @@
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.AssemblyInfoInputs.cache
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.AssemblyInfo.cs
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.csproj.CoreCompileInputs.cache
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.sourcelink.json
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\bin\Debug\net8.0\11.14 Sudoku Checker.exe
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\bin\Debug\net8.0\11.14 Sudoku Checker.deps.json
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\bin\Debug\net8.0\11.14 Sudoku Checker.runtimeconfig.json
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\bin\Debug\net8.0\11.14 Sudoku Checker.dll
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\bin\Debug\net8.0\11.14 Sudoku Checker.pdb
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.dll
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\refint\11.14 Sudoku Checker.dll
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.pdb
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.genruntimeconfig.cache
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\ref\11.14 Sudoku Checker.dll

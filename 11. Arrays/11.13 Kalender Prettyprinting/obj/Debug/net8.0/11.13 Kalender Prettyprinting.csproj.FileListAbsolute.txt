@@ -1,0 +1,15 @@
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\bin\Debug\net8.0\11.13 Kalender Prettyprinting.exe
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\bin\Debug\net8.0\11.13 Kalender Prettyprinting.deps.json
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\bin\Debug\net8.0\11.13 Kalender Prettyprinting.runtimeconfig.json
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\bin\Debug\net8.0\11.13 Kalender Prettyprinting.dll
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\bin\Debug\net8.0\11.13 Kalender Prettyprinting.pdb
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.AssemblyInfoInputs.cache
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.AssemblyInfo.cs
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.csproj.CoreCompileInputs.cache
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.sourcelink.json
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.dll
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\refint\11.13 Kalender Prettyprinting.dll
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.pdb
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.genruntimeconfig.cache
+C:\Users\emilj\documents\sdu\oop\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\ref\11.13 Kalender Prettyprinting.dll
