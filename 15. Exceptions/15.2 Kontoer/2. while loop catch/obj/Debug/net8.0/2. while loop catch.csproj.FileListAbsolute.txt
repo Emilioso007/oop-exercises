@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\bin\Debug\net8.0\2. while loop catch.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\bin\Debug\net8.0\2. while loop catch.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\bin\Debug\net8.0\2. while loop catch.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\bin\Debug\net8.0\2. while loop catch.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\bin\Debug\net8.0\2. while loop catch.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\refint\2. while loop catch.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\ref\2. while loop catch.dll

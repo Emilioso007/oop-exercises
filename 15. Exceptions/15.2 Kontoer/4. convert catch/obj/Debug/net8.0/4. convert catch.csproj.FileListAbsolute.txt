@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\bin\Debug\net8.0\4. convert catch.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\bin\Debug\net8.0\4. convert catch.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\bin\Debug\net8.0\4. convert catch.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\bin\Debug\net8.0\4. convert catch.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\bin\Debug\net8.0\4. convert catch.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\refint\4. convert catch.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\ref\4. convert catch.dll

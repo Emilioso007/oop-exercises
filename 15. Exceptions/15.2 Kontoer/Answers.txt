@@ -1,0 +1,5 @@
+1. Hvad sker der hvis man giver dette program "3" som input?
+	accounts array har ikke et indeks 3, så der vil blive kastet en exception.
+
+3. Hvad sker der hvis man giver dette program "to" som input?
+	"to" kan ikke konverteres til et heltal, så der bliver kastet en exception.
