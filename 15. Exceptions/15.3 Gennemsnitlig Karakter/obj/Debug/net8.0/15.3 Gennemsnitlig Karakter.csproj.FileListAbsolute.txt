@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\bin\Debug\net8.0\15.3 Gennemsnitlig Karakter.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\bin\Debug\net8.0\15.3 Gennemsnitlig Karakter.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\bin\Debug\net8.0\15.3 Gennemsnitlig Karakter.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\bin\Debug\net8.0\15.3 Gennemsnitlig Karakter.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\bin\Debug\net8.0\15.3 Gennemsnitlig Karakter.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\refint\15.3 Gennemsnitlig Karakter.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\ref\15.3 Gennemsnitlig Karakter.dll
