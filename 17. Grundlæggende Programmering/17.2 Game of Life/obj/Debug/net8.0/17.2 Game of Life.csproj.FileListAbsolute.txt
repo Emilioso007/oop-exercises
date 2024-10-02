@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\bin\Debug\net8.0\17.2 Game of Life.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\bin\Debug\net8.0\17.2 Game of Life.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\bin\Debug\net8.0\17.2 Game of Life.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\bin\Debug\net8.0\17.2 Game of Life.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\bin\Debug\net8.0\17.2 Game of Life.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\refint\17.2 Game of Life.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\ref\17.2 Game of Life.dll
