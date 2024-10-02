@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\bin\Debug\net8.0\17.1 Sudoku Løser.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\bin\Debug\net8.0\17.1 Sudoku Løser.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\bin\Debug\net8.0\17.1 Sudoku Løser.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\bin\Debug\net8.0\17.1 Sudoku Løser.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\bin\Debug\net8.0\17.1 Sudoku Løser.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\refint\17.1 Sudoku Løser.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\ref\17.1 Sudoku Løser.dll
