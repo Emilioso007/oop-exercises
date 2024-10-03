@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\bin\Debug\net8.0\QueensProblem.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\bin\Debug\net8.0\QueensProblem.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\bin\Debug\net8.0\QueensProblem.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\bin\Debug\net8.0\QueensProblem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\bin\Debug\net8.0\QueensProblem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\refint\QueensProblem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\ref\QueensProblem.dll
