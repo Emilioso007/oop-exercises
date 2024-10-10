@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\bin\Debug\net8.0\EnrollmentSystem.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\bin\Debug\net8.0\EnrollmentSystem.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\bin\Debug\net8.0\EnrollmentSystem.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\bin\Debug\net8.0\EnrollmentSystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\bin\Debug\net8.0\EnrollmentSystem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\refint\EnrollmentSystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\ref\EnrollmentSystem.dll
