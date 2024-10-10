@@ -1,0 +1,47 @@
+Forklaring af programmet
+Programmet definerer en klasse OperatorTest med en Main metode, der kalder to forskellige versioner af metoden Operator mange gange i en dobbelt for-loop. Der er to Operator metoder defineret med forskellig signatur:
+
+public static int Operator(int a, int b, bool c):
+
+Denne version tager to heltal og en boolsk værdi som parametre og returnerer summen af a + b.
+public static int Operator(int a, int b, char c):
+
+Denne version tager to heltal og et tegn (char) som parametre og returnerer differencen a - b.
+Metoderne kaldes skiftevis med forskellige typer af parametre, og resultaterne printes til konsollen.
+
+1. Hvilke operatorer udføres der på de enkelte linjer?
+(?1?): Operator(a, b, true)
+
+Denne kalder versionen af Operator med en bool som tredje parameter, så der udføres summation: a + b.
+(?2?): Operator(a, b, false)
+
+Denne kalder også versionen med en bool, så der udføres summation: a + b. (Bool værdien ændrer ikke funktionen, da den boolske værdi ikke bruges inde i metoden).
+(?3?): Operator(a, b, 'a')
+
+Denne kalder versionen med en char som tredje parameter, hvilket medfører subtraktion: a - b.
+(?4?): Operator(a, b, 'b')
+
+Denne kalder igen versionen med en char, så der udføres subtraktion: a - b. (Tegnet 'b' er irrelevant for operationen, da char-værdien heller ikke bruges inde i metoden).
+(?5?): Operator(a, b, '.')
+
+Denne kalder endnu en gang versionen med en char, hvilket igen medfører subtraktion: a - b.
+2. Hvad er forholdet mellem disse og den 3. parameter til operator-kaldene?
+Den tredje parameter bestemmer, hvilken version af metoden der bliver kaldt:
+
+Hvis tredje parameter er en bool (true eller false), bliver metoden Operator(int a, int b, bool c) kaldt, og operationen er addition.
+
+Hvis tredje parameter er en char (uanset hvad tegnet er), bliver metoden Operator(int a, int b, char c) kaldt, og operationen er subtraktion.
+
+3. Hvad er den vigtige del af den 3. parameter? Hvilken regel er det, der bliver udnyttet?
+Den vigtigste del af den tredje parameter er typen, ikke værdien. Dette udnytter metode-overbelastning (overloading) i C#. Overbelastning gør det muligt at definere flere metoder med samme navn, så længe deres parametertyper eller antallet af parametre er forskellige.
+
+I dette tilfælde er det tredje parameters type, der adskiller de to Operator metoder: en metode tager en bool, mens den anden tager en char. C# vælger hvilken metode der skal kaldes baseret på typen af den tredje parameter.
+
+4. Er dette en fornuftig grænseflade for operator?
+Dette er sandsynligvis ikke en fornuftig grænseflade for en Operator metode.
+
+Det er ikke intuitivt, at en boolsk parameter medfører en addition, mens en char medfører subtraktion. En boolsk værdi kunne fx bedre bruges til at vælge mellem forskellige operationer (som "skal jeg addere eller subtrahere"), men uden at overbelaste metoden på en uklar måde.
+
+At overloade på baggrund af en char virker ikke særligt meningsfuldt her, da tegnet ikke bruges til noget i selve metoden. Det kan skabe forvirring for dem, der læser koden.
+
+En mere fornuftig grænseflade kunne være at bruge én metode, hvor den tredje parameter klart definerer den ønskede operation. Dette kunne være en enum (f.eks. OperatorType.Add eller OperatorType.Subtract), der eksplicit angiver operationen.
