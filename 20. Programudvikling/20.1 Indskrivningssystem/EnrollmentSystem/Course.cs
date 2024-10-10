@@ -24,29 +24,9 @@ public class Course
 		participants.RemoveAll(student);
 	}
 
-	public Student[] GetParticipants ()
+	public List<Student> GetParticipants ()
 	{
-		// count number of entries
-		int count = 0;
-		foreach (Student student in participants)
-		{
-			if (student != null)
-			{
-				count++;
-			}
-		}
-
-		// make a copy
-		Student[] result = new Student[count];
-		int index = 0;
-		foreach (Student student in participants)
-		{
-			if (student != null)
-			{
-				result[index++] = student;
-			}
-		}
-		return result;
+		return participants;
 	}
 
 }
