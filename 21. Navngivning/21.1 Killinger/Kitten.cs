@@ -4,7 +4,7 @@ public class Kitten
 {
 
 	public static int Count = 0;
-	
+
 	private double _cuteness;
 
 	public Kitten(double cuteness)
@@ -12,5 +12,5 @@ public class Kitten
 		_cuteness = cuteness;
 		Kitten.Count++;
 	}
-	
+
 }
