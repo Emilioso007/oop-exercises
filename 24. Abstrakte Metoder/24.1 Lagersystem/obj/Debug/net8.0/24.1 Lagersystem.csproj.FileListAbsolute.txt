@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\bin\Debug\net8.0\24.1 Lagersystem.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\bin\Debug\net8.0\24.1 Lagersystem.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\bin\Debug\net8.0\24.1 Lagersystem.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\bin\Debug\net8.0\24.1 Lagersystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\bin\Debug\net8.0\24.1 Lagersystem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\refint\24.1 Lagersystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\ref\24.1 Lagersystem.dll
