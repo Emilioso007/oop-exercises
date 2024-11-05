@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\bin\Debug\net8.0\DynamiskArray.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\bin\Debug\net8.0\DynamiskArray.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\bin\Debug\net8.0\DynamiskArray.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\bin\Debug\net8.0\DynamiskArray.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\bin\Debug\net8.0\DynamiskArray.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\refint\DynamiskArray.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\ref\DynamiskArray.dll
