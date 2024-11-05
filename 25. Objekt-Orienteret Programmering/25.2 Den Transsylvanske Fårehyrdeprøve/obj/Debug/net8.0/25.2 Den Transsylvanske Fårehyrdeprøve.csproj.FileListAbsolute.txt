@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\bin\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\bin\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\bin\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\bin\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\bin\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\refint\25.2 Den Transsylvanske Fårehyrdeprøve.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\ref\25.2 Den Transsylvanske Fårehyrdeprøve.dll
