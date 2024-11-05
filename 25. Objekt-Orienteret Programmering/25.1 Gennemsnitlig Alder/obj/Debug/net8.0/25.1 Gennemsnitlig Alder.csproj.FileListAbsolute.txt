@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\bin\Debug\net8.0\25.1 Gennemsnitlig Alder.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\bin\Debug\net8.0\25.1 Gennemsnitlig Alder.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\bin\Debug\net8.0\25.1 Gennemsnitlig Alder.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\bin\Debug\net8.0\25.1 Gennemsnitlig Alder.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\bin\Debug\net8.0\25.1 Gennemsnitlig Alder.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\refint\25.1 Gennemsnitlig Alder.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\ref\25.1 Gennemsnitlig Alder.dll
