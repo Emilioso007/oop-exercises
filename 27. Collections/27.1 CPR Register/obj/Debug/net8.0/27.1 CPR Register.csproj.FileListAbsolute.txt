@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\bin\Debug\net8.0\27.1 CPR Register.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\bin\Debug\net8.0\27.1 CPR Register.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\bin\Debug\net8.0\27.1 CPR Register.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\bin\Debug\net8.0\27.1 CPR Register.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\bin\Debug\net8.0\27.1 CPR Register.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\refint\27.1 CPR Register.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\ref\27.1 CPR Register.dll
