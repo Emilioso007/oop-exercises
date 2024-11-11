@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\bin\Debug\net8.0\28.8 Shell.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\bin\Debug\net8.0\28.8 Shell.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\bin\Debug\net8.0\28.8 Shell.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\bin\Debug\net8.0\28.8 Shell.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\bin\Debug\net8.0\28.8 Shell.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\refint\28.8 Shell.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\ref\28.8 Shell.dll
