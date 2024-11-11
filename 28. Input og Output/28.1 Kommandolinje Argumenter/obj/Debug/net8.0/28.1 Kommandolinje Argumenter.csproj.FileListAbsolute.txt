@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\bin\Debug\net8.0\28.1 Kommandolinje Argumenter.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\bin\Debug\net8.0\28.1 Kommandolinje Argumenter.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\bin\Debug\net8.0\28.1 Kommandolinje Argumenter.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\bin\Debug\net8.0\28.1 Kommandolinje Argumenter.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\bin\Debug\net8.0\28.1 Kommandolinje Argumenter.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\refint\28.1 Kommandolinje Argumenter.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\ref\28.1 Kommandolinje Argumenter.dll
