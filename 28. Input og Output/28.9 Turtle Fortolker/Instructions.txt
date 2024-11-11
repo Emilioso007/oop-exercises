@@ -1,0 +1,33 @@
+size 11 12
+start 5 1
+pen tap
+west
+south
+pen tap
+west
+south
+pen tap
+west
+south
+pen tap
+west
+south
+pen down
+south 5
+east 8
+north 5
+pen up
+north
+west
+pen tap
+north
+west
+pen tap
+north
+west
+pen tap
+east 3
+north
+pen tap
+save Picture.txt
+exit

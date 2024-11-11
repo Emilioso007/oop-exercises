@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\bin\Debug\net8.0\28.9 Turtle Fortolker.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\bin\Debug\net8.0\28.9 Turtle Fortolker.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\bin\Debug\net8.0\28.9 Turtle Fortolker.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\bin\Debug\net8.0\28.9 Turtle Fortolker.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\bin\Debug\net8.0\28.9 Turtle Fortolker.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\refint\28.9 Turtle Fortolker.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\ref\28.9 Turtle Fortolker.dll
