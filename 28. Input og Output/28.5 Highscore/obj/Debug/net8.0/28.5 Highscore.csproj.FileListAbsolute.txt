@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\28.5 Highscore.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\28.5 Highscore.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\28.5 Highscore.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\28.5 Highscore.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\28.5 Highscore.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\refint\28.5 Highscore.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\ref\28.5 Highscore.dll
