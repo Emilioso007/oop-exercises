@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\bin\Debug\net8.0\28.6 CSV Filer.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\bin\Debug\net8.0\28.6 CSV Filer.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\bin\Debug\net8.0\28.6 CSV Filer.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\bin\Debug\net8.0\28.6 CSV Filer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\bin\Debug\net8.0\28.6 CSV Filer.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\refint\28.6 CSV Filer.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\ref\28.6 CSV Filer.dll
