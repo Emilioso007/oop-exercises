@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\28.4 Læsning fra Fil.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\28.4 Læsning fra Fil.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\28.4 Læsning fra Fil.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\28.4 Læsning fra Fil.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\28.4 Læsning fra Fil.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\refint\28.4 Læsning fra Fil.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\ref\28.4 Læsning fra Fil.dll

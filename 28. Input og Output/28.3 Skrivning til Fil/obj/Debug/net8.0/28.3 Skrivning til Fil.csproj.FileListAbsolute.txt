@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\28.3 Skrivning til Fil.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\28.3 Skrivning til Fil.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\28.3 Skrivning til Fil.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\28.3 Skrivning til Fil.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\28.3 Skrivning til Fil.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\refint\28.3 Skrivning til Fil.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\ref\28.3 Skrivning til Fil.dll
