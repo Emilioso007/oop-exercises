@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\bin\Debug\net8.0\28.2 Keyboard Input.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\bin\Debug\net8.0\28.2 Keyboard Input.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\bin\Debug\net8.0\28.2 Keyboard Input.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\bin\Debug\net8.0\28.2 Keyboard Input.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\bin\Debug\net8.0\28.2 Keyboard Input.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\refint\28.2 Keyboard Input.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\ref\28.2 Keyboard Input.dll
