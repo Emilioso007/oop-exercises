@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("28.1 Kommandolinje Argumenter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e1c2c7acaa34f8cda71b209de8a06a8f470c896")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+106341c39df892c00eaddb448381b5756c311e4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("28.1 Kommandolinje Argumenter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("28.1 Kommandolinje Argumenter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
