@@ -22,7 +22,7 @@
 		int[] d = new int[a.Length];
 		for (int i = 0 ; i < d.Length ; i++)
 		{
-			d[i] = b[i] - a[i];
+			d[i] = b[i] - a[i]; // changed from a[1] to a[i]. Sneaky!
 		}
 
 		return d;
