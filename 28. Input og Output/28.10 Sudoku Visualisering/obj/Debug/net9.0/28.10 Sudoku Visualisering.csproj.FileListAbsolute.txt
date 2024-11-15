@@ -18,3 +18,8 @@ C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering
 C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.runtimeconfig.json
 C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.dll
 C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\net9.0\28.10 Sudoku Visualisering.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\net9.0\28.10 Sudoku Visualisering.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\net9.0\28.10 Sudoku Visualisering.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\net9.0\28.10 Sudoku Visualisering.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\net9.0\28.10 Sudoku Visualisering.pdb

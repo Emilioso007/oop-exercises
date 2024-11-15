@@ -6,7 +6,7 @@
     <RootNamespace>_28._10_Sudoku_Visualisering</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <OutputPath>..\..\</OutputPath>
+    <OutputPath>..\</OutputPath>
   </PropertyGroup>
 
 </Project>
