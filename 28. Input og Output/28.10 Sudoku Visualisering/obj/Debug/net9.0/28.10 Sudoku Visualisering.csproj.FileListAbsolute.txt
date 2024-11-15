@@ -1,0 +1,20 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\28.10 Sudoku Visualisering.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\28.10 Sudoku Visualisering.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\28.10 Sudoku Visualisering.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\28.10 Sudoku Visualisering.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\28.10 Sudoku Visualisering.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\refint\28.10 Sudoku Visualisering.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\ref\28.10 Sudoku Visualisering.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\net9.0\28.10 Sudoku Visualisering.pdb
