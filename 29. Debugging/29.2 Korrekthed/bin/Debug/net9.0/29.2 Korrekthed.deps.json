@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "29.2 Korrekthed/1.0.0": {
+        "runtime": {
+          "29.2 Korrekthed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "29.2 Korrekthed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
