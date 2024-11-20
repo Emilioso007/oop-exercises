@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="TestProject\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="TestProject\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="TestProject\**" />
+    </ItemGroup>
+
+</Project>

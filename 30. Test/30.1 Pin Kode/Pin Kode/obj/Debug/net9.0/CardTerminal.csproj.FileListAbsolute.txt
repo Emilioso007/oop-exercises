@@ -1,0 +1,14 @@
+C:\Users\emilj\Documents\Code\Pin Kode\bin\Debug\net9.0\CardTerminal.exe
+C:\Users\emilj\Documents\Code\Pin Kode\bin\Debug\net9.0\CardTerminal.deps.json
+C:\Users\emilj\Documents\Code\Pin Kode\bin\Debug\net9.0\CardTerminal.runtimeconfig.json
+C:\Users\emilj\Documents\Code\Pin Kode\bin\Debug\net9.0\CardTerminal.dll
+C:\Users\emilj\Documents\Code\Pin Kode\bin\Debug\net9.0\CardTerminal.pdb
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\CardTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\CardTerminal.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\CardTerminal.AssemblyInfo.cs
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\CardTerminal.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\CardTerminal.dll
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\refint\CardTerminal.dll
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\CardTerminal.pdb
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\CardTerminal.genruntimeconfig.cache
+C:\Users\emilj\Documents\Code\Pin Kode\obj\Debug\net9.0\ref\CardTerminal.dll
