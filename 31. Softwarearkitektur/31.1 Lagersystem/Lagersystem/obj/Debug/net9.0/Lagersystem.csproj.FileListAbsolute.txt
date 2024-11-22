@@ -1,0 +1,15 @@
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\bin\Debug\net9.0\Lagersystem.exe
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\bin\Debug\net9.0\Lagersystem.deps.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\bin\Debug\net9.0\Lagersystem.runtimeconfig.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\bin\Debug\net9.0\Lagersystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\bin\Debug\net9.0\Lagersystem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.AssemblyInfoInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.AssemblyInfo.cs
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.csproj.CoreCompileInputs.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.sourcelink.json
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\refint\Lagersystem.dll
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.pdb
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.genruntimeconfig.cache
+C:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\ref\Lagersystem.dll
