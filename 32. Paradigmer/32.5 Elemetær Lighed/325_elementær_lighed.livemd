@@ -1,0 +1,54 @@
+# 32.5 Elementær Lighed
+
+## Section
+
+```elixir
+defmodule BaconFilter do
+  def filt([],[]) do
+    []
+  end
+  def filt(a, b) do
+    if hd(a) == hd(b) do
+      [true | filt(tl(a), tl(b))]
+    else
+      [false | filt(tl(a), tl(b))]
+    end
+  end
+end
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+{:module, BaconFilter, <<70, 79, 82, 49, 0, 0, 7, ...>>, {:filt, 2}}
+```
+
+```elixir
+a = [1, 2, 3, 5, 4]
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+[1, 2, 3, 5, 4]
+```
+
+```elixir
+b = [1, 2, 3, 4, 5]
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+[1, 2, 3, 4, 5]
+```
+
+```elixir
+BaconFilter.filt(a, b)
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+[true, true, true, false, false]
+```

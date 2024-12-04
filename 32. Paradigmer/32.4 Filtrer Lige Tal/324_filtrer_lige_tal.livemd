@@ -1,0 +1,23 @@
+# 32.4 Filtrer Lige Tal
+
+## Section
+
+<!-- livebook:{"reevaluate_automatically":true} -->
+
+```elixir
+  defmodule MyModule do
+    def even?(value) do
+      rem(value, 2) == 0
+    end
+  end
+```
+
+<!-- livebook:{"reevaluate_automatically":true} -->
+
+```elixir
+list = Enum.to_list(1..10)
+```
+
+```elixir
+list |> Enum.filter(&MyModule.even?/1)
+```

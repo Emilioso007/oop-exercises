@@ -1,0 +1,112 @@
+# 32.6 Fibonacci Sekvensen
+
+```elixir
+Mix.install([
+  {:vega_lite, "~> 0.1.11"},
+  {:kino_vega_lite, "~> 0.1.13"}
+])
+```
+
+## Section
+
+<!-- livebook:{"reevaluate_automatically":true} -->
+
+```elixir
+defmodule FibPrimitive do
+  def calc(n) do
+    case n do
+      0 -> 0
+      1 -> 1
+      _ -> calc(n-1) + calc(n-2)
+    end
+  end
+end
+
+defmodule FibThoughtfull do
+  def calc(n) do
+    calc2(0, 1, n)
+  end
+
+  defp calc2(a, b, n) do
+    case n do
+      0 -> a
+      _ -> calc2(a+b, a, n-1)
+    end
+  end
+  
+end
+
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+{:module, FibThoughtfull, <<70, 79, 82, 49, 0, 0, 7, ...>>, {:calc2, 3}}
+```
+
+```elixir
+fiblist = 0..40 |> Enum.map(&FibPrimitive.calc()/1)
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946,
+ 17711, 28657, 46368, 75025, 121393, 196418, 317811, 514229, 832040, 1346269, 2178309, 3524578,
+ 5702887, 9227465, 14930352, 24157817, 39088169, 63245986, 102334155]
+```
+
+```elixir
+fiblist = 0..40 |> Enum.map(&FibThoughtfull.calc()/1)
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946,
+ 17711, 28657, 46368, 75025, 121393, 196418, 317811, 514229, 832040, 1346269, 2178309, 3524578,
+ 5702887, 9227465, 14930352, 24157817, 39088169, 63245986, 102334155]
+```
+
+```elixir
+# convenience alias
+alias VegaLite, as: Vl
+
+# module for timing
+defmodule Timer do
+  def measure(f, inputs, label) do
+    inputs
+    |> Enum.map(
+      fn input ->
+        {time, _} = :timer.tc(f, [input])
+        %{
+          "n" => input,
+          "time" => time,
+          "implementation" => label,
+        }
+      end
+    )
+  end
+end
+
+# perform timing measurements
+inputs = 0..40
+measurements_primitive = Timer.measure(&FibPrimitive.calc/1, inputs, "Primitive")
+measurements_thoughtfull = Timer.measure(&FibThoughtfull.calc/1, inputs, "Thoughtfull")
+measurements = measurements_primitive ++ measurements_thoughtfull
+
+# plot results
+Vl.new(width: 400, height: 300)
+|> Vl.data_from_values(measurements)
+|> Vl.mark(:line)
+|> Vl.encode_field(:x, "n", type: :quantitative, title: "n/[n]")
+|> Vl.encode_field(:y, "time", type: :quantitative, title: "Time/[us]")
+|> Vl.encode_field(:color, "implementation", type: :nominal, title: "Implementation")
+
+```
+
+<!-- livebook:{"output":true} -->
+
+```vega-lite
+{"$schema":"https://vega.github.io/schema/vega-lite/v5.json","data":{"values":[{"implementation":"Primitive","n":0,"time":0},{"implementation":"Primitive","n":1,"time":0},{"implementation":"Primitive","n":2,"time":0},{"implementation":"Primitive","n":3,"time":0},{"implementation":"Primitive","n":4,"time":0},{"implementation":"Primitive","n":5,"time":0},{"implementation":"Primitive","n":6,"time":0},{"implementation":"Primitive","n":7,"time":0},{"implementation":"Primitive","n":8,"time":0},{"implementation":"Primitive","n":9,"time":0},{"implementation":"Primitive","n":10,"time":0},{"implementation":"Primitive","n":11,"time":0},{"implementation":"Primitive","n":12,"time":0},{"implementation":"Primitive","n":13,"time":0},{"implementation":"Primitive","n":14,"time":0},{"implementation":"Primitive","n":15,"time":0},{"implementation":"Primitive","n":16,"time":102},{"implementation":"Primitive","n":17,"time":0},{"implementation":"Primitive","n":18,"time":102},{"implementation":"Primitive","n":19,"time":102},{"implementation":"Primitive","n":20,"time":307},{"implementation":"Primitive","n":21,"time":409},{"implementation":"Primitive","n":22,"time":614},{"implementation":"Primitive","n":23,"time":1024},{"implementation":"Primitive","n":24,"time":1638},{"implementation":"Primitive","n":25,"time":2457},{"implementation":"Primitive","n":26,"time":3788},{"implementation":"Primitive","n":27,"time":6553},{"implementation":"Primitive","n":28,"time":9932},{"implementation":"Primitive","n":29,"time":15462},{"implementation":"Primitive","n":30,"time":25088},{"implementation":"Primitive","n":31,"time":61132},{"implementation":"Primitive","n":32,"time":70451},{"implementation":"Primitive","n":33,"time":106291},{"implementation":"Primitive","n":34,"time":125952},{"implementation":"Primitive","n":35,"time":247296},{"implementation":"Primitive","n":36,"time":436326},{"implementation":"Primitive","n":37,"time":683725},{"implementation":"Primitive","n":38,"time":1217127},{"implementation":"Primitive","n":39,"time":1967412},{"implementation":"Primitive","n":40,"time":3225909},{"implementation":"Thoughtfull","n":0,"time":0},{"implementation":"Thoughtfull","n":1,"time":0},{"implementation":"Thoughtfull","n":2,"time":0},{"implementation":"Thoughtfull","n":3,"time":0},{"implementation":"Thoughtfull","n":4,"time":0},{"implementation":"Thoughtfull","n":5,"time":0},{"implementation":"Thoughtfull","n":6,"time":0},{"implementation":"Thoughtfull","n":7,"time":0},{"implementation":"Thoughtfull","n":8,"time":0},{"implementation":"Thoughtfull","n":9,"time":0},{"implementation":"Thoughtfull","n":10,"time":0},{"implementation":"Thoughtfull","n":11,"time":0},{"implementation":"Thoughtfull","n":12,"time":0},{"implementation":"Thoughtfull","n":13,"time":0},{"implementation":"Thoughtfull","n":14,"time":0},{"implementation":"Thoughtfull","n":15,"time":0},{"implementation":"Thoughtfull","n":16,"time":0},{"implementation":"Thoughtfull","n":17,"time":0},{"implementation":"Thoughtfull","n":18,"time":0},{"implementation":"Thoughtfull","n":19,"time":0},{"implementation":"Thoughtfull","n":20,"time":0},{"implementation":"Thoughtfull","n":21,"time":0},{"implementation":"Thoughtfull","n":22,"time":0},{"implementation":"Thoughtfull","n":23,"time":0},{"implementation":"Thoughtfull","n":24,"time":0},{"implementation":"Thoughtfull","n":25,"time":0},{"implementation":"Thoughtfull","n":26,"time":0},{"implementation":"Thoughtfull","n":27,"time":0},{"implementation":"Thoughtfull","n":28,"time":0},{"implementation":"Thoughtfull","n":29,"time":0},{"implementation":"Thoughtfull","n":30,"time":0},{"implementation":"Thoughtfull","n":31,"time":0},{"implementation":"Thoughtfull","n":32,"time":0},{"implementation":"Thoughtfull","n":33,"time":0},{"implementation":"Thoughtfull","n":34,"time":0},{"implementation":"Thoughtfull","n":35,"time":0},{"implementation":"Thoughtfull","n":36,"time":0},{"implementation":"Thoughtfull","n":37,"time":0},{"implementation":"Thoughtfull","n":38,"time":0},{"implementation":"Thoughtfull","n":39,"time":0},{"implementation":"Thoughtfull","n":40,"time":0}]},"encoding":{"color":{"field":"implementation","title":"Implementation","type":"nominal"},"x":{"field":"n","title":"n/[n]","type":"quantitative"},"y":{"field":"time","title":"Time/[us]","type":"quantitative"}},"height":300,"mark":"line","width":400}
+```

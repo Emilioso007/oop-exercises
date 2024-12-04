@@ -1,0 +1,90 @@
+# 32.7 Pipelines
+
+## Section
+
+```elixir
+defmodule Human do
+  defstruct sex: :female, age: 0, name: "Buffy Summers"
+end
+
+:ok
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+:ok
+```
+
+```elixir
+humans =
+  [
+    %Human{age: 17},
+    %Human{sex: :male, age: 12, name: "Luca"},
+    %Human{sex: :female, age: 22, name: "Sophie"},
+    %Human{sex: :male, age: 34, name: "Klaus"},
+    %Human{sex: :female, age: 19, name: "Perinne"},
+    %Human{sex: :female, age: 23, name: "Fie"},
+    %Human{sex: :male, age: 20, name: "Asger"},
+    %Human{sex: :female, age: 27, name: "Pernille"},
+    %Human{sex: :male, age: 21, name: "Peter"},
+    %Human{sex: :female, age: 26, name: "Dominika"},
+    %Human{sex: :male, age: 7, name: "Mathias"},
+  ]
+
+:ok
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+:ok
+```
+
+```elixir
+# Find the youngest male who is more than 18 years, else -1
+defmodule MaleAgeFinder do
+  def minAge(humans) do
+    minAge(humans, -1)
+  end
+  defp minAge([], record) do
+    record
+  end
+  defp minAge(humans, record)do
+    human = hd(humans)
+    if(human.sex == :male && human.age >= 18 && (record == -1 || human.age < record)) do
+      minAge(tl(humans), human.age)
+    else
+      minAge(tl(humans), record)
+    end
+  end
+end
+
+MaleAgeFinder.minAge(humans)
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+20
+```
+
+```elixir
+defmodule MaleAgeFinderHighOrder do
+  def minAge(humans) do
+    sub = 
+        humans
+        |> Enum.filter(fn human -> human.sex == :male && human.age >= 18 end)
+        |> Enum.min_by(fn human -> human.age end)
+    sub.age
+  end
+end
+
+MaleAgeFinderHighOrder.minAge(humans)
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+20
+```

@@ -1,0 +1,966 @@
+"filename", "language", "JSON", "C#", "XML", "Markdown", "Properties", "comment", "blank", "total"
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\05. Typer\5.1 Hello, World\Program.cs", "C#", 0, 9, 0, 0, 0, 0, 2, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\05. Typer\5.4 Heltallige Grænser\Program.cs", "C#", 0, 11, 0, 0, 0, 0, 1, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.1 Areal af Cirkler\Program.cs", "C#", 0, 17, 0, 0, 0, 0, 3, 20
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.2 Sum af Areal af Cirkler\Program.cs", "C#", 0, 18, 0, 0, 0, 0, 3, 21
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.3 Celcius til Fahrenheit\Program.cs", "C#", 0, 11, 0, 0, 0, 0, 2, 13
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\7.4 Epoch.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\Program.cs", "C#", 0, 14, 0, 0, 0, 0, 7, 21
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\bin\Debug\net8.0\7.4 Epoch.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\bin\Debug\net8.0\7.4 Epoch.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\7.4 Epoch.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\7.4 Epoch.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\7.4 Epoch.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\Debug\net8.0\7.4 Epoch.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\Debug\net8.0\7.4 Epoch.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\Debug\net8.0\7.4 Epoch.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\Debug\net8.0\7.4 Epoch.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.4 Epoch\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\7.5 Inkrementering af Måned.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\Program.cs", "C#", 0, 15, 0, 0, 0, 0, 8, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\bin\Debug\net8.0\7.5 Inkrementering af Måned.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\bin\Debug\net8.0\7.5 Inkrementering af Måned.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\7.5 Inkrementering af Måned.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\7.5 Inkrementering af Måned.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\7.5 Inkrementering af Måned.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\Debug\net8.0\7.5 Inkrementering af Måned.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\Debug\net8.0\7.5 Inkrementering af Måned.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\Debug\net8.0\7.5 Inkrementering af Måned.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\Debug\net8.0\7.5 Inkrementering af Måned.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.5 Inkrementering af Måned\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\7.7 Daglige Differencer.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\Program.cs", "C#", 0, 22, 0, 0, 0, 1, 5, 28
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\bin\Debug\net8.0\7.7 Daglige Differencer.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\bin\Debug\net8.0\7.7 Daglige Differencer.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\7.7 Daglige Differencer.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\7.7 Daglige Differencer.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\7.7 Daglige Differencer.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\Debug\net8.0\7.7 Daglige Differencer.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\07. Variable\7.7 Daglige Differencer\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\08. Booleans\8.4 Terninger\Program.cs", "C#", 0, 10, 0, 0, 0, 0, 7, 17
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\9.1+2 Epoch.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\Program.cs", "C#", 0, 25, 0, 0, 0, 0, 10, 35
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\bin\Debug\net8.0\9.1+2 Epoch.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\bin\Debug\net8.0\9.1+2 Epoch.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\9.1+2 Epoch.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\9.1+2 Epoch.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\9.1+2 Epoch.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\Debug\net8.0\9.1+2 Epoch.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\Debug\net8.0\9.1+2 Epoch.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\Debug\net8.0\9.1+2 Epoch.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\Debug\net8.0\9.1+2 Epoch.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.1+2 Epoch\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\9.3 Juleudsalg.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\Program.cs", "C#", 0, 18, 0, 0, 0, 0, 9, 27
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\bin\Debug\net8.0\9.3 Juleudsalg.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\bin\Debug\net8.0\9.3 Juleudsalg.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\9.3 Juleudsalg.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\9.3 Juleudsalg.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\9.3 Juleudsalg.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\Debug\net8.0\9.3 Juleudsalg.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\Debug\net8.0\9.3 Juleudsalg.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\Debug\net8.0\9.3 Juleudsalg.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\Debug\net8.0\9.3 Juleudsalg.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.3 Juleudsalg\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\9.4 Længden af en Måned.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\Program.cs", "C#", 0, 21, 0, 0, 0, 0, 4, 25
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\bin\Debug\net8.0\9.4 Længden af en Måned.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\bin\Debug\net8.0\9.4 Længden af en Måned.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\9.4 Længden af en Måned.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\9.4 Længden af en Måned.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\9.4 Længden af en Måned.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\Debug\net8.0\9.4 Længden af en Måned.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.4 Længden af en Måned\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\9.5 Ferie.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\Program.cs", "C#", 0, 27, 0, 0, 0, 0, 4, 31
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\bin\Debug\net8.0\9.5 Ferie.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\bin\Debug\net8.0\9.5 Ferie.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\9.5 Ferie.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\9.5 Ferie.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\9.5 Ferie.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\Debug\net8.0\9.5 Ferie.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\Debug\net8.0\9.5 Ferie.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\Debug\net8.0\9.5 Ferie.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\Debug\net8.0\9.5 Ferie.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\09. Branches\9.5 Ferie\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\10.1 Celcius til Fahrenheit.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\Program.cs", "C#", 0, 12, 0, 0, 0, 0, 3, 15
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\bin\Debug\net8.0\10.1 Celcius til Fahrenheit.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\bin\Debug\net8.0\10.1 Celcius til Fahrenheit.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\10.1 Celcius til Fahrenheit.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\10.1 Celcius til Fahrenheit.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\10.1 Celcius til Fahrenheit.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\Debug\net8.0\10.1 Celcius til Fahrenheit.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.1 Celcius til Fahrenheit\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\Program.cs", "C#", 0, 12, 0, 0, 0, 0, 3, 15
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\bin\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\bin\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\Debug\net8.0\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.2 Celcius til Fahrenheit i Omvendt Rækkefølge\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\DoWhile loop.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\Program.cs", "C#", 0, 15, 0, 0, 0, 0, 4, 19
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\bin\Debug\net8.0\DoWhile loop.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\bin\Debug\net8.0\DoWhile loop.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\Debug\net8.0\DoWhile loop.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\DoWhile loop.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\DoWhile loop.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\DoWhile loop.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\DoWhile loop\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\Program.cs", "C#", 0, 14, 0, 0, 0, 0, 4, 18
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\While loop.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\bin\Debug\net8.0\While loop.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\bin\Debug\net8.0\While loop.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\Debug\net8.0\While loop.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\Debug\net8.0\While loop.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\Debug\net8.0\While loop.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\Debug\net8.0\While loop.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\While loop.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\While loop.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\While loop.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.3 Celcius til Fahrenheit Alternativer\While loop\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\10.4 Areal af Cirkler.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\Program.cs", "C#", 0, 12, 0, 0, 0, 0, 3, 15
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\bin\Debug\net8.0\10.4 Areal af Cirkler.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\bin\Debug\net8.0\10.4 Areal af Cirkler.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\10.4 Areal af Cirkler.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\10.4 Areal af Cirkler.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\10.4 Areal af Cirkler.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\Debug\net8.0\10.4 Areal af Cirkler.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\Debug\net8.0\10.4 Areal af Cirkler.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\Debug\net8.0\10.4 Areal af Cirkler.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\Debug\net8.0\10.4 Areal af Cirkler.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.4 Areal af Cirkler\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\10.5 Primtal.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\Program.cs", "C#", 0, 20, 0, 0, 0, 0, 3, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\bin\Debug\net8.0\10.5 Primtal.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\bin\Debug\net8.0\10.5 Primtal.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\10.5 Primtal.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\10.5 Primtal.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\10.5 Primtal.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\Debug\net8.0\10.5 Primtal.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\Debug\net8.0\10.5 Primtal.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\Debug\net8.0\10.5 Primtal.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\Debug\net8.0\10.5 Primtal.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\10. Loops\10.5 Primtal\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\11.10 Længden af en Måned.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\Program.cs", "C#", 0, 12, 0, 0, 0, 0, 5, 17
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\bin\Debug\net8.0\11.10 Længden af en Måned.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\bin\Debug\net8.0\11.10 Længden af en Måned.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\11.10 Længden af en Måned.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\11.10 Længden af en Måned.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\11.10 Længden af en Måned.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\Debug\net8.0\11.10 Længden af en Måned.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\Debug\net8.0\11.10 Længden af en Måned.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\Debug\net8.0\11.10 Længden af en Måned.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\Debug\net8.0\11.10 Længden af en Måned.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.10 Længden af en Måned\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\11.11 Primtal.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\Program.cs", "C#", 0, 26, 0, 0, 0, 0, 6, 32
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\bin\Debug\net8.0\11.11 Primtal.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\bin\Debug\net8.0\11.11 Primtal.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\11.11 Primtal.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\11.11 Primtal.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\11.11 Primtal.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\Debug\net8.0\11.11 Primtal.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\Debug\net8.0\11.11 Primtal.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\Debug\net8.0\11.11 Primtal.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\Debug\net8.0\11.11 Primtal.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.11 Primtal\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\11.12 Kalender.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\Program.cs", "C#", 0, 24, 0, 0, 0, 0, 5, 29
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\bin\Debug\net8.0\11.12 Kalender.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\bin\Debug\net8.0\11.12 Kalender.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\11.12 Kalender.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\11.12 Kalender.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\11.12 Kalender.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\Debug\net8.0\11.12 Kalender.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\Debug\net8.0\11.12 Kalender.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\Debug\net8.0\11.12 Kalender.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\Debug\net8.0\11.12 Kalender.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.12 Kalender\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\11.13 Kalender Prettyprinting.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\Program.cs", "C#", 0, 57, 0, 0, 0, 0, 10, 67
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\bin\Debug\net8.0\11.13 Kalender Prettyprinting.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\bin\Debug\net8.0\11.13 Kalender Prettyprinting.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\11.13 Kalender Prettyprinting.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\11.13 Kalender Prettyprinting.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\11.13 Kalender Prettyprinting.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\Debug\net8.0\11.13 Kalender Prettyprinting.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.13 Kalender Prettyprinting\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\11.14 Sudoku Checker.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\Program.cs", "C#", 0, 83, 0, 0, 0, 4, 14, 101
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\bin\Debug\net8.0\11.14 Sudoku Checker.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\bin\Debug\net8.0\11.14 Sudoku Checker.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\11.14 Sudoku Checker.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\11.14 Sudoku Checker.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\11.14 Sudoku Checker.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\Debug\net8.0\11.14 Sudoku Checker.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.14 Sudoku Checker\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\11.4 Størst i Array.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\Program.cs", "C#", 0, 19, 0, 0, 0, 0, 6, 25
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\bin\Debug\net8.0\11.4 Størst i Array.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\bin\Debug\net8.0\11.4 Størst i Array.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\11.4 Størst i Array.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\11.4 Størst i Array.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\11.4 Størst i Array.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\Debug\net8.0\11.4 Størst i Array.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.4 Størst i Array\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\11.6 Multiplikationstabel.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\Program.cs", "C#", 0, 16, 0, 0, 0, 0, 6, 22
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\bin\Debug\net8.0\11.6 Multiplikationstabel.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\bin\Debug\net8.0\11.6 Multiplikationstabel.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\11.6 Multiplikationstabel.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\11.6 Multiplikationstabel.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\11.6 Multiplikationstabel.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\Debug\net8.0\11.6 Multiplikationstabel.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\Debug\net8.0\11.6 Multiplikationstabel.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\Debug\net8.0\11.6 Multiplikationstabel.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\Debug\net8.0\11.6 Multiplikationstabel.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.6 Multiplikationstabel\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\11.8 Areal af Cirkler.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\Program.cs", "C#", 0, 13, 0, 0, 0, 0, 4, 17
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\bin\Debug\net8.0\11.8 Areal af Cirkler.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\bin\Debug\net8.0\11.8 Areal af Cirkler.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\11.8 Areal af Cirkler.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\11.8 Areal af Cirkler.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\11.8 Areal af Cirkler.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\Debug\net8.0\11.8 Areal af Cirkler.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.8 Areal af Cirkler\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\11.9 Daglige Differencer.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\Program.cs", "C#", 0, 13, 0, 0, 0, 0, 4, 17
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\bin\Debug\net8.0\11.9 Daglige Differencer.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\bin\Debug\net8.0\11.9 Daglige Differencer.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\11.9 Daglige Differencer.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\11.9 Daglige Differencer.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\11.9 Daglige Differencer.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\Debug\net8.0\11.9 Daglige Differencer.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\11. Arrays\11.9 Daglige Differencer\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\12.1 Person.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\Program.cs", "C#", 0, 15, 0, 0, 0, 0, 6, 21
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\bin\Debug\net8.0\12.1 Person.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\bin\Debug\net8.0\12.1 Person.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\12.1 Person.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\12.1 Person.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\12.1 Person.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\Debug\net8.0\12.1 Person.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\Debug\net8.0\12.1 Person.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\Debug\net8.0\12.1 Person.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\Debug\net8.0\12.1 Person.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\12. Struct\12.1 Person\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\13.1 Retning.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\Program.cs", "C#", 0, 17, 0, 0, 0, 0, 5, 22
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\bin\Debug\net8.0\13.1 Retning.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\bin\Debug\net8.0\13.1 Retning.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\13.1 Retning.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\13.1 Retning.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\13.1 Retning.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\Debug\net8.0\13.1 Retning.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\Debug\net8.0\13.1 Retning.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\Debug\net8.0\13.1 Retning.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\Debug\net8.0\13.1 Retning.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\13. Enum\13.1 Retning\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\14. Funktioner\14.3 Sudoku Prettyprinter\Program.cs", "C#", 0, 26, 0, 0, 0, 0, 4, 30
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\14. Funktioner\14.4 Sum\Program.cs", "C#", 0, 13, 0, 0, 0, 0, 6, 19
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\14. Funktioner\14.5 Egen Kvadratrod\Program.cs", "C#", 0, 17, 0, 0, 0, 0, 8, 25
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\14. Funktioner\14.7 Diskriminanter og Rødder\Program.cs", "C#", 0, 29, 0, 0, 0, 0, 10, 39
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\14. Funktioner\14.8 Fakultet\Program.cs", "C#", 0, 19, 0, 0, 0, 0, 5, 24
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\14. Funktioner\14.9 Cirkler i Tal\Program.cs", "C#", 0, 16, 0, 0, 0, 0, 6, 22
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\15.1 Indeksering.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\Program.cs", "C#", 0, 21, 0, 0, 0, 13, 7, 41
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\bin\Debug\net8.0\15.1 Indeksering.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\bin\Debug\net8.0\15.1 Indeksering.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\15.1 Indeksering.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\15.1 Indeksering.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\15.1 Indeksering.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\Debug\net8.0\15.1 Indeksering.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\Debug\net8.0\15.1 Indeksering.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\Debug\net8.0\15.1 Indeksering.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\Debug\net8.0\15.1 Indeksering.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.1 Indeksering\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\2. while loop catch.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\Program.cs", "C#", 0, 24, 0, 0, 0, 0, 8, 32
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\bin\Debug\net8.0\2. while loop catch.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\bin\Debug\net8.0\2. while loop catch.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\2. while loop catch.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\2. while loop catch.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\2. while loop catch.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\Debug\net8.0\2. while loop catch.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\2. while loop catch\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\4. convert catch.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\Program.cs", "C#", 0, 28, 0, 0, 0, 0, 8, 36
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\bin\Debug\net8.0\4. convert catch.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\bin\Debug\net8.0\4. convert catch.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\4. convert catch.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\4. convert catch.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\4. convert catch.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\Debug\net8.0\4. convert catch.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.2 Kontoer\4. convert catch\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\15.3 Gennemsnitlig Karakter.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\Program.cs", "C#", 0, 28, 0, 0, 0, 0, 10, 38
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\bin\Debug\net8.0\15.3 Gennemsnitlig Karakter.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\bin\Debug\net8.0\15.3 Gennemsnitlig Karakter.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\15.3 Gennemsnitlig Karakter.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\15.3 Gennemsnitlig Karakter.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\15.3 Gennemsnitlig Karakter.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\Debug\net8.0\15.3 Gennemsnitlig Karakter.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\15. Exceptions\15.3 Gennemsnitlig Karakter\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\17.1 Sudoku Løser.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\Program.cs", "C#", 0, 25, 0, 0, 0, 13, 7, 45
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\SudokuBoard.cs", "C#", 0, 130, 0, 0, 0, 5, 27, 162
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\bin\Debug\net8.0\17.1 Sudoku Løser.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\bin\Debug\net8.0\17.1 Sudoku Løser.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\17.1 Sudoku Løser.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\17.1 Sudoku Løser.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\17.1 Sudoku Løser.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\Debug\net8.0\17.1 Sudoku Løser.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.1 Sudoku Løser\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\17.2 Game of Life.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\Program.cs", "C#", 0, 72, 0, 0, 0, 1, 17, 90
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\bin\Debug\net8.0\17.2 Game of Life.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\bin\Debug\net8.0\17.2 Game of Life.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\17.2 Game of Life.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\17.2 Game of Life.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\17.2 Game of Life.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\Debug\net8.0\17.2 Game of Life.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.2 Game of Life\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\Program.cs", "C#", 0, 64, 0, 0, 0, 2, 9, 75
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\QueensProblem.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\bin\Debug\net8.0\QueensProblem.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\bin\Debug\net8.0\QueensProblem.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\Debug\net8.0\QueensProblem.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\QueensProblem.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\QueensProblem.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\QueensProblem.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\17. Grundlæggende Programmering\17.3 8 Dronninge Problemet\QueensProblem\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\Customer.cs", "C#", 0, 27, 0, 0, 0, 0, 7, 34
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\KundeProgram1.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\Program.cs", "C#", 0, 11, 0, 0, 0, 0, 4, 15
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\bin\Debug\net8.0\KundeProgram1.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\bin\Debug\net8.0\KundeProgram1.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\Debug\net8.0\KundeProgram1.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\Debug\net8.0\KundeProgram1.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\Debug\net8.0\KundeProgram1.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\Debug\net8.0\KundeProgram1.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\KundeProgram1.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\KundeProgram1.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\KundeProgram1.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.1 Kunder\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\Customer.cs", "C#", 0, 28, 0, 0, 0, 0, 10, 38
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\CustomerDatabase.cs", "C#", 0, 53, 0, 0, 0, 0, 8, 61
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\KundeProgram2.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\Program.cs", "C#", 0, 34, 0, 0, 0, 0, 20, 54
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\bin\Debug\net8.0\KundeProgram2.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\bin\Debug\net8.0\KundeProgram2.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\Debug\net8.0\KundeProgram2.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\Debug\net8.0\KundeProgram2.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\Debug\net8.0\KundeProgram2.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\Debug\net8.0\KundeProgram2.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\KundeProgram2.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\KundeProgram2.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\KundeProgram2.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.2 Kunde Database\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\18.3 Farver.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\HSV.cs", "C#", 0, 52, 0, 0, 0, 1, 14, 67
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\Program.cs", "C#", 0, 16, 0, 0, 0, 0, 7, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\RGB.cs", "C#", 0, 96, 0, 0, 0, 1, 17, 114
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\bin\Debug\net8.0\18.3 Farver.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\bin\Debug\net8.0\18.3 Farver.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\18.3 Farver.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\18.3 Farver.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\18.3 Farver.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\Debug\net8.0\18.3 Farver.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\Debug\net8.0\18.3 Farver.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\Debug\net8.0\18.3 Farver.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\Debug\net8.0\18.3 Farver.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\18. Objekter\18.3 Farver\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\FoodItem.cs", "C#", 0, 15, 0, 0, 0, 0, 9, 24
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\Item.cs", "C#", 0, 17, 0, 0, 0, 0, 6, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\Lagersystem.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\NonFoodItem.cs", "C#", 0, 15, 0, 0, 0, 0, 9, 24
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\Program.cs", "C#", 0, 24, 0, 0, 0, 0, 9, 33
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\bin\Debug\net8.0\Lagersystem.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\bin\Debug\net8.0\Lagersystem.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\19. Arv\19.1 Lagersystem\Lagersystem\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\Course.cs", "C#", 0, 25, 0, 0, 0, 0, 7, 32
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\EnrollmentSystem.cs", "C#", 0, 62, 0, 0, 0, 0, 13, 75
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\EnrollmentSystem.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\Program.cs", "C#", 0, 11, 0, 0, 0, 0, 8, 19
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\Student.cs", "C#", 0, 14, 0, 0, 0, 0, 5, 19
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\bin\Debug\net8.0\EnrollmentSystem.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\bin\Debug\net8.0\EnrollmentSystem.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\Debug\net8.0\EnrollmentSystem.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\EnrollmentSystem.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\EnrollmentSystem.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\EnrollmentSystem.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\20. Programudvikling\20.1 Indskrivningssystem\EnrollmentSystem\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\21.1 Killinger.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\Kitten.cs", "C#", 0, 11, 0, 0, 0, 0, 5, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\Program.cs", "C#", 0, 15, 0, 0, 0, 0, 4, 19
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\bin\Debug\net8.0\21.1 Killinger.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\bin\Debug\net8.0\21.1 Killinger.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\21.1 Killinger.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\21.1 Killinger.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\21.1 Killinger.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\Debug\net8.0\21.1 Killinger.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\Debug\net8.0\21.1 Killinger.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\Debug\net8.0\21.1 Killinger.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\Debug\net8.0\21.1 Killinger.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.1 Killinger\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\21.2 Addition.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\Program.cs", "C#", 0, 23, 0, 0, 0, 0, 9, 32
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\bin\Debug\net8.0\21.2 Addition.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\bin\Debug\net8.0\21.2 Addition.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\21.2 Addition.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\21.2 Addition.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\21.2 Addition.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\Debug\net8.0\21.2 Addition.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\Debug\net8.0\21.2 Addition.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\Debug\net8.0\21.2 Addition.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\Debug\net8.0\21.2 Addition.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.2 Addition\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\21.4 Scope.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\Program.cs", "C#", 0, 18, 0, 0, 0, 0, 4, 22
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\bin\Debug\net8.0\21.4 Scope.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\bin\Debug\net8.0\21.4 Scope.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\21.4 Scope.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\21.4 Scope.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\21.4 Scope.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\Debug\net8.0\21.4 Scope.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\Debug\net8.0\21.4 Scope.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\Debug\net8.0\21.4 Scope.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\Debug\net8.0\21.4 Scope.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.4 Scope\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\21.5 Indkapsling.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\Program.cs", "C#", 0, 86, 0, 0, 0, 0, 21, 107
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\bin\Debug\net8.0\21.5 Indkapsling.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\bin\Debug\net8.0\21.5 Indkapsling.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\21.5 Indkapsling.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\21.5 Indkapsling.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\21.5 Indkapsling.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\Debug\net8.0\21.5 Indkapsling.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\Debug\net8.0\21.5 Indkapsling.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\Debug\net8.0\21.5 Indkapsling.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\Debug\net8.0\21.5 Indkapsling.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\21. Navngivning\21.5 Indkapsling\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\22.1 Date.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\Program.cs", "C#", 0, 14, 0, 0, 0, 5, 4, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\bin\Debug\net8.0\22.1 Date.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\bin\Debug\net8.0\22.1 Date.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\22.1 Date.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\22.1 Date.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\22.1 Date.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\Debug\net8.0\22.1 Date.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\Debug\net8.0\22.1 Date.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\Debug\net8.0\22.1 Date.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\Debug\net8.0\22.1 Date.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.1 Date\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\22.2 Tidstagning.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\Program.cs", "C#", 0, 24, 0, 0, 0, 0, 13, 37
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\bin\Debug\net8.0\22.2 Tidstagning.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\bin\Debug\net8.0\22.2 Tidstagning.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\22.2 Tidstagning.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\22.2 Tidstagning.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\22.2 Tidstagning.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\Debug\net8.0\22.2 Tidstagning.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\Debug\net8.0\22.2 Tidstagning.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\Debug\net8.0\22.2 Tidstagning.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\Debug\net8.0\22.2 Tidstagning.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\22. Standardbibliotek\22.2 Tidstagning\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\FoodItem.cs", "C#", 0, 15, 0, 0, 0, 0, 9, 24
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\Inventory.cs", "C#", 0, 34, 0, 0, 0, 0, 11, 45
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\Item.cs", "C#", 0, 17, 0, 0, 0, 0, 6, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\Lagersystem.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\NonFoodItem.cs", "C#", 0, 15, 0, 0, 0, 0, 9, 24
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\Program.cs", "C#", 0, 21, 0, 0, 0, 0, 9, 30
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\bin\Debug\net8.0\Lagersystem.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\bin\Debug\net8.0\Lagersystem.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Debug\net8.0\Lagersystem.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\23. Polymorfi\23.1 Lagersystem\Lagersystem\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\.idea\.idea.24.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\.idea\.idea.24.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\24.1 Lagersystem.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\FoodItem.cs", "C#", 0, 19, 0, 0, 0, 0, 10, 29
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\IExpireable.cs", "C#", 0, 6, 0, 0, 0, 0, 4, 10
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\Inventory.cs", "C#", 0, 46, 0, 0, 0, 0, 12, 58
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\Item.cs", "C#", 0, 18, 0, 0, 0, 0, 8, 26
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\NonFoodItem.cs", "C#", 0, 19, 0, 0, 0, 0, 9, 28
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\Program.cs", "C#", 0, 23, 0, 0, 0, 0, 11, 34
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\bin\Debug\net8.0\24.1 Lagersystem.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\bin\Debug\net8.0\24.1 Lagersystem.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\24.1 Lagersystem.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\24.1 Lagersystem.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\24.1 Lagersystem.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\Debug\net8.0\24.1 Lagersystem.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\24. Abstrakte Metoder\24.1 Lagersystem\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\.idea\.idea.25.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\.idea\.idea.25.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\25.1 Gennemsnitlig Alder.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\Person.cs", "C#", 0, 35, 0, 0, 0, 0, 6, 41
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\Program.cs", "C#", 0, 14, 0, 0, 0, 0, 6, 20
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\bin\Debug\net8.0\25.1 Gennemsnitlig Alder.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\bin\Debug\net8.0\25.1 Gennemsnitlig Alder.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\25.1 Gennemsnitlig Alder.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\25.1 Gennemsnitlig Alder.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\25.1 Gennemsnitlig Alder.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\Debug\net8.0\25.1 Gennemsnitlig Alder.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.1 Gennemsnitlig Alder\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\.idea\.idea.25.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\.idea\.idea.25.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\25.2 Den Transsylvanske Fårehyrdeprøve.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\Program.cs", "C#", 0, 204, 0, 0, 0, 72, 37, 313
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\bin\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\bin\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\25.2 Den Transsylvanske Fårehyrdeprøve.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\25.2 Den Transsylvanske Fårehyrdeprøve.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\25.2 Den Transsylvanske Fårehyrdeprøve.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\Debug\net8.0\25.2 Den Transsylvanske Fårehyrdeprøve.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.2 Den Transsylvanske Fårehyrdeprøve\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\.idea\.idea.25.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\.idea\.idea.25.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\25.3 Hangman.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\Hangman.cs", "C#", 0, 68, 0, 0, 0, 0, 10, 78
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\Program.cs", "C#", 0, 24, 0, 0, 0, 0, 11, 35
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\bin\Debug\net8.0\25.3 Hangman.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\bin\Debug\net8.0\25.3 Hangman.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\25.3 Hangman.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\25.3 Hangman.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\25.3 Hangman.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\Debug\net8.0\25.3 Hangman.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\Debug\net8.0\25.3 Hangman.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\Debug\net8.0\25.3 Hangman.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\Debug\net8.0\25.3 Hangman.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\25. Objekt-Orienteret Programmering\25.3 Hangman\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\.idea\.idea.DynamiskArray.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\.idea\.idea.DynamiskArray.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\DynArray.cs", "C#", 0, 107, 0, 0, 0, 0, 14, 121
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\DynamiskArray.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\IDynArray.cs", "C#", 0, 10, 0, 0, 0, 0, 3, 13
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\Program.cs", "C#", 0, 22, 0, 0, 0, 0, 3, 25
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\bin\Debug\net8.0\DynamiskArray.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\bin\Debug\net8.0\DynamiskArray.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\Debug\net8.0\DynamiskArray.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\DynamiskArray.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\DynamiskArray.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\DynamiskArray.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\26. Parametriserede Typer\26.1 Dynamisk Array\DynamiskArray\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\.idea\.idea.27.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\.idea\.idea.27.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\27.1 CPR Register.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\Person.cs", "C#", 0, 29, 0, 0, 0, 0, 6, 35
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\Program.cs", "C#", 0, 26, 0, 0, 0, 0, 11, 37
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\bin\Debug\net8.0\27.1 CPR Register.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\bin\Debug\net8.0\27.1 CPR Register.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\27.1 CPR Register.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\27.1 CPR Register.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\27.1 CPR Register.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\Debug\net8.0\27.1 CPR Register.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.1 CPR Register\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\.idea\.idea.27.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\.idea\.idea.27.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\27.2 Mængder.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\INondestructiveSet.cs", "C#", 0, 9, 0, 0, 0, 0, 4, 13
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\NondestructiveHashSet.cs", "C#", 0, 74, 0, 0, 0, 0, 17, 91
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\Program.cs", "C#", 0, 24, 0, 0, 0, 0, 12, 36
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\bin\Debug\net8.0\27.2 Mængder.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\bin\Debug\net8.0\27.2 Mængder.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\27.2 Mængder.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\27.2 Mængder.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\27.2 Mængder.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\Debug\net8.0\27.2 Mængder.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\Debug\net8.0\27.2 Mængder.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\Debug\net8.0\27.2 Mængder.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\Debug\net8.0\27.2 Mængder.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\27. Collections\27.2 Mængder\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\28.1 Kommandolinje Argumenter.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\Program.cs", "C#", 0, 16, 0, 0, 0, 0, 5, 21
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\bin\Debug\net8.0\28.1 Kommandolinje Argumenter.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\bin\Debug\net8.0\28.1 Kommandolinje Argumenter.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\28.1 Kommandolinje Argumenter.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\28.1 Kommandolinje Argumenter.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\28.1 Kommandolinje Argumenter.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\Debug\net8.0\28.1 Kommandolinje Argumenter.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.1 Kommandolinje Argumenter\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\.idea\.idea.28.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\.idea\.idea.28.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\28.10 Sudoku Visualisering.csproj", "XML", 0, 0, 10, 0, 0, 0, 2, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\Program.cs", "C#", 0, 33, 0, 0, 0, 1, 7, 41
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\28.10 Sudoku Visualisering.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\28.10 Sudoku Visualisering.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\bin\Debug\net9.0\board.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\board.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\example.svg", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\28.10 Sudoku Visualisering.csproj.nuget.dgspec.json", "JSON", 74, 0, 0, 0, 0, 0, 0, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\28.10 Sudoku Visualisering.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\28.10 Sudoku Visualisering.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 15, 0, 1, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\Debug\net9.0\28.10 Sudoku Visualisering.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\project.assets.json", "JSON", 80, 0, 0, 0, 0, 0, 0, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.10 Sudoku Visualisering\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\28.2 Keyboard Input.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\Program.cs", "C#", 0, 10, 0, 0, 0, 8, 7, 25
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\bin\Debug\net8.0\28.2 Keyboard Input.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\bin\Debug\net8.0\28.2 Keyboard Input.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\28.2 Keyboard Input.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\28.2 Keyboard Input.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\28.2 Keyboard Input.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\Debug\net8.0\28.2 Keyboard Input.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.2 Keyboard Input\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\.idea\.idea.28.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\.idea\.idea.28.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\28.3 Skrivning til Fil.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\Program.cs", "C#", 0, 35, 0, 0, 0, 0, 8, 43
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\28.3 Skrivning til Fil.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\28.3 Skrivning til Fil.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\bin\Debug\net8.0\Months.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\28.3 Skrivning til Fil.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\28.3 Skrivning til Fil.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\28.3 Skrivning til Fil.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\Debug\net8.0\28.3 Skrivning til Fil.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.3 Skrivning til Fil\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\.idea\.idea.28.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\.idea\.idea.28.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\28.4 Læsning fra Fil.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\Program.cs", "C#", 0, 17, 0, 0, 0, 0, 8, 25
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\28.4 Læsning fra Fil.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\28.4 Læsning fra Fil.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\bin\Debug\net8.0\Months.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\28.4 Læsning fra Fil.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\28.4 Læsning fra Fil.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\28.4 Læsning fra Fil.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\Debug\net8.0\28.4 Læsning fra Fil.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.4 Læsning fra Fil\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\.idea\.idea.28.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\.idea\.idea.28.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\28.5 Highscore.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\Highscore.cs", "C#", 0, 65, 0, 0, 0, 0, 10, 75
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\Program.cs", "C#", 0, 11, 0, 0, 0, 5, 9, 25
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\28.5 Highscore.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\28.5 Highscore.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\bin\Debug\net8.0\highscore.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\28.5 Highscore.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\28.5 Highscore.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\28.5 Highscore.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\Debug\net8.0\28.5 Highscore.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.5 Highscore\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\.idea\.idea.28.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\.idea\.idea.28.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\28.6 CSV Filer.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\Matrix.cs", "C#", 0, 65, 0, 0, 0, 0, 15, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\Program.cs", "C#", 0, 28, 0, 0, 0, 0, 14, 42
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\bin\Debug\net8.0\28.6 CSV Filer.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\bin\Debug\net8.0\28.6 CSV Filer.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\28.6 CSV Filer.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\28.6 CSV Filer.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\28.6 CSV Filer.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\Debug\net8.0\28.6 CSV Filer.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.6 CSV Filer\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\.idea\.idea.28.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\.idea\.idea.28.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\28.8 Shell.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\Program.cs", "C#", 0, 32, 0, 0, 0, 0, 10, 42
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\bin\Debug\net8.0\28.8 Shell.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\bin\Debug\net8.0\28.8 Shell.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\28.8 Shell.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\28.8 Shell.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\28.8 Shell.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\Debug\net8.0\28.8 Shell.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.8 Shell\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\.idea\.idea.28.dir\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\.idea\.idea.28.dir\.idea\vcs.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\28.9 Turtle Fortolker.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\Canvas.cs", "C#", 0, 55, 0, 0, 0, 0, 15, 70
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\Program.cs", "C#", 0, 60, 0, 0, 0, 0, 14, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\Turtle.cs", "C#", 0, 92, 0, 0, 0, 0, 13, 105
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\bin\Debug\net8.0\28.9 Turtle Fortolker.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\bin\Debug\net8.0\28.9 Turtle Fortolker.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\28.9 Turtle Fortolker.csproj.nuget.dgspec.json", "JSON", 73, 0, 0, 0, 0, 0, 0, 73
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\28.9 Turtle Fortolker.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\28.9 Turtle Fortolker.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 13, 0, 1, 14
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\Debug\net8.0\28.9 Turtle Fortolker.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\project.assets.json", "JSON", 79, 0, 0, 0, 0, 0, 0, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\28. Input og Output\28.9 Turtle Fortolker\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.1 Find en Fejl\29.1 Find en Fejl.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.1 Find en Fejl\Program.cs", "C#", 0, 13, 0, 0, 0, 0, 0, 13
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.1 Find en Fejl\obj\29.1 Find en Fejl.csproj.nuget.dgspec.json", "JSON", 74, 0, 0, 0, 0, 0, 0, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.1 Find en Fejl\obj\29.1 Find en Fejl.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.1 Find en Fejl\obj\29.1 Find en Fejl.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.1 Find en Fejl\obj\project.assets.json", "JSON", 80, 0, 0, 0, 0, 0, 0, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\29.2 Korrekthed.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\Program.cs", "C#", 0, 64, 0, 0, 0, 3, 12, 79
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\bin\Debug\net9.0\29.2 Korrekthed.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\bin\Debug\net9.0\29.2 Korrekthed.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\29.2 Korrekthed.csproj.nuget.dgspec.json", "JSON", 74, 0, 0, 0, 0, 0, 0, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\29.2 Korrekthed.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\29.2 Korrekthed.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\Debug\net9.0\29.2 Korrekthed.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\Debug\net9.0\29.2 Korrekthed.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 15, 0, 1, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\Debug\net9.0\29.2 Korrekthed.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\Debug\net9.0\29.2 Korrekthed.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.2 Korrekthed\obj\project.assets.json", "JSON", 80, 0, 0, 0, 0, 0, 0, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\29.3 Sum.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\Program.cs", "C#", 0, 19, 0, 0, 0, 0, 4, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\bin\Debug\net9.0\29.3 Sum.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\bin\Debug\net9.0\29.3 Sum.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\29.3 Sum.csproj.nuget.dgspec.json", "JSON", 74, 0, 0, 0, 0, 0, 0, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\29.3 Sum.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\29.3 Sum.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\Debug\net9.0\29.3 Sum.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\Debug\net9.0\29.3 Sum.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 15, 0, 1, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\Debug\net9.0\29.3 Sum.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\Debug\net9.0\29.3 Sum.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.3 Sum\obj\project.assets.json", "JSON", 80, 0, 0, 0, 0, 0, 0, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\29.4 Lykke.csproj", "XML", 0, 0, 9, 0, 0, 0, 3, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\Program.cs", "C#", 0, 39, 0, 0, 0, 20, 10, 69
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\bin\Debug\net9.0\29.4 Lykke.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\bin\Debug\net9.0\29.4 Lykke.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\29.4 Lykke.csproj.nuget.dgspec.json", "JSON", 74, 0, 0, 0, 0, 0, 0, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\29.4 Lykke.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\29.4 Lykke.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\Debug\net9.0\29.4 Lykke.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\Debug\net9.0\29.4 Lykke.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 15, 0, 1, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\Debug\net9.0\29.4 Lykke.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\Debug\net9.0\29.4 Lykke.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\29. Debugging\29.4 Lykke\obj\project.assets.json", "JSON", 80, 0, 0, 0, 0, 0, 0, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\.idea\.idea.Pin Kode\.idea\indexLayout.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\.idea\.idea.Pin Kode\.idea\vcs.xml", "XML", 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\CardTerminal.csproj", "XML", 0, 0, 17, 0, 0, 0, 6, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\Pin.cs", "C#", 0, 15, 0, 0, 0, 0, 4, 19
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\Program.cs", "C#", 0, 13, 0, 0, 0, 0, 2, 15
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\TestProject.csproj", "XML", 0, 0, 22, 0, 0, 0, 6, 28
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\UnitTest1.cs", "C#", 0, 42, 0, 0, 0, 0, 13, 55
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\bin\Debug\net9.0\CardTerminal.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\bin\Debug\net9.0\CardTerminal.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\bin\Debug\net9.0\TestProject.deps.json", "JSON", 398, 0, 0, 0, 0, 0, 0, 398
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 15, 0, 1, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\Debug\net9.0\TestProject.GlobalUsings.g.cs", "C#", 0, 8, 0, 0, 0, 1, 1, 10
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\TestProject.csproj.nuget.dgspec.json", "JSON", 166, 0, 0, 0, 0, 0, 0, 166
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\TestProject.csproj.nuget.g.props", "XML", 0, 0, 26, 0, 0, 0, 0, 26
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\TestProject.csproj.nuget.g.targets", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\project.assets.json", "JSON", 919, 0, 0, 0, 0, 0, 0, 919
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\TestProject\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\bin\Debug\net9.0\CardTerminal.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\bin\Debug\net9.0\CardTerminal.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\CardTerminal.csproj.nuget.dgspec.json", "JSON", 74, 0, 0, 0, 0, 0, 0, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\CardTerminal.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\CardTerminal.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\Debug\net9.0\CardTerminal.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\Debug\net9.0\CardTerminal.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 15, 0, 1, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\Debug\net9.0\CardTerminal.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\project.assets.json", "JSON", 80, 0, 0, 0, 0, 0, 0, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\30. Test\30.1 Pin Kode\Pin Kode\obj\project.packagespec.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Data\FileBackend.cs", "C#", 0, 36, 0, 0, 0, 0, 14, 50
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Domain\ExpiredItemAddedException.cs", "C#", 0, 8, 0, 0, 0, 0, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Domain\FoodItem.cs", "C#", 0, 71, 0, 0, 0, 1, 8, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Domain\IExpireable.cs", "C#", 0, 5, 0, 0, 0, 0, 1, 6
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Domain\Inventory.cs", "C#", 0, 152, 0, 0, 0, 2, 16, 170
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Domain\Item.cs", "C#", 0, 57, 0, 0, 0, 0, 12, 69
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Domain\ItemNameLengthComparer.cs", "C#", 0, 10, 0, 0, 0, 0, 2, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Domain\NonFoodItem.cs", "C#", 0, 55, 0, 0, 0, 1, 9, 65
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Lagersystem.csproj", "XML", 0, 0, 8, 0, 0, 0, 3, 11
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Presentation\Test.cs", "C#", 0, 24, 0, 0, 0, 0, 4, 28
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\Program.cs", "C#", 0, 8, 0, 0, 0, 0, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\bin\Debug\net9.0\Lagersystem.deps.json", "JSON", 23, 0, 0, 0, 0, 0, 0, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\bin\Debug\net9.0\Lagersystem.runtimeconfig.json", "JSON", 12, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs", "C#", 0, 3, 0, 0, 0, 1, 1, 5
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.AssemblyInfo.cs", "C#", 0, 9, 0, 0, 0, 9, 5, 23
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 0, 15, 0, 1, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.GlobalUsings.g.cs", "C#", 0, 7, 0, 0, 0, 1, 1, 9
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Debug\net9.0\Lagersystem.sourcelink.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.dgspec.json", "JSON", 74, 0, 0, 0, 0, 0, 0, 74
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.g.props", "XML", 0, 0, 16, 0, 0, 0, 0, 16
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\Lagersystem.csproj.nuget.g.targets", "XML", 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\31. Softwarearkitektur\31.1 Lagersystem\Lagersystem\obj\project.assets.json", "JSON", 80, 0, 0, 0, 0, 0, 0, 80
+"c:\Users\emilj\Documents\SDU\OOP\oop-exercises\README.md", "Markdown", 0, 0, 0, 26, 0, 0, 9, 35
+"Total", "-", 13751, 5066, 2030, 26, 859, 874, 1719, 24325
